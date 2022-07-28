@@ -23,7 +23,19 @@ Projeto em desenvolvimento para o teste da empresa DomPixel, este projeto tem co
 
 - ``PHP 8``
 - ``Laravel 9``
+- ``Bootstrap 5``
+- ``Blade``
 - ``MVC``
+
+## Instruções
+ - Instalar o PHP e extensões do Laravel
+ - Instalar o Composer
+ - Baixar as dependências do projeto usando ``composer update``
+ - Rodar ``php artisan migrate``
+ - Rodar ``php artisan serve``
+
+## Dificuldades
+<p>Não consegui finalizar o crud devido ao tempo, tive um impedimento para encontrar as exceptions porém, contornei isto usando o try catch, não fiz a conexão com o front-end embora o front já esteja pronto</p>
 
 ## Autores
 
